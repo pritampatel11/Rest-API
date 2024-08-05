@@ -63,7 +63,7 @@ file_path = "test.xlsx"
 data = load_data(file_path)
 
 # Streamlit UI
-st.set_page_config(page_title="Technical Issue Logger", page_icon="📝", layout="wide")
+st.set_page_config(page_title="🛠️Technical Issue Logger", page_icon="📝", layout="wide")
 st.title("Technical Issue Logger")
 
 # Sidebar for filters and download button
